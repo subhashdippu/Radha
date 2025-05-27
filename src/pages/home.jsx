@@ -1,4 +1,4 @@
-import PatientList from "../components/patientList";
+import PatientList from "../components/patientListt";
 import SqlQueryExecutor from "../components/sqlQueryExecutor";
 
 function HomePage() {
